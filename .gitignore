@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*~
+.installed.cfg
+bin
+etc
